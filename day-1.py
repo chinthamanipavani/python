@@ -1,4 +1,5 @@
 
+
 print('ARITHMETIC OPERATIONS')
 print(4+3)
 print(0-3)
@@ -41,7 +42,10 @@ print(str2[2])
 print(str2[0])
 print(str1[-4])
 
-
+# print(7/0)--->ZeroDivisionError: division by zero
+# print(9//0)--->ZeroDivisionError: integer division or modulo by zero
+# print(num3+num1)--->NameError: name 'num3' is not defined. Did you mean: 'num1'?
+# print(str1[7]) ---> IndexError: string index out of range.
 
 
       
